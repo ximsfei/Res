@@ -54,6 +54,6 @@ bintray {
 //               passphrase = properties.getProperty("bintray.gpg.password")
 //               //Optional. The passphrase for GPG signing'
 //           }
-        }
+//        }
     }
 }
